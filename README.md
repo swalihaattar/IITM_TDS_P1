@@ -1,0 +1,3 @@
+Data was scraped from the GitHub API by filtering users in Mumbai with over 50 followers and fetching their most recent repositories.
+On average, users with fewer repositories tend to have higher stargazer counts per repository than those with a larger number of repositories, suggesting that focused efforts on fewer projects may attract more attention per project.
+Developers aiming to increase their repository popularity should consider focusing on a few high-quality projects rather than spreading efforts across multiple repositories. This can lead to higher average stargazer counts per project, increasing visibility and engagement with each repository.
